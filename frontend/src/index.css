@@ -1,0 +1,126 @@
+:root {
+  --shangri-la-pink: #FFC0CB; /* Màu hồng chủ đạo */
+  --shangri-la-mint: #98FF98; /* Màu xanh mint điểm xuyết */
+  --bg-light: #f5f5f5;
+  --white: #ffffff;
+}
+
+body {
+  margin: 0;
+  background-color: var(--bg-light);
+  font-family: 'Roboto', sans-serif;
+}
+
+/* 1. Top Header */
+.top-header {
+  background-color: var(--shangri-la-pink);
+  color: white;
+  padding: 5px 10%;
+  display: flex;
+  justify-content: space-between;
+  font-size: 13px;
+}
+
+.top-header span { cursor: pointer; margin-right: 15px; }
+
+/* 2. Search & Cart Area */
+.main-header {
+  background-color: var(--shangri-la-pink);
+  padding: 10px 10% 20px 10%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.logo { font-size: 30px; font-weight: bold; color: white; text-decoration: none; }
+
+.search-container { flex: 1; margin: 0 40px; position: relative; }
+
+.search-bar {
+  width: 100%;
+  padding: 10px;
+  border-radius: 4px;
+  border: none;
+  outline: none;
+}
+
+.search-keywords {
+  margin-top: 5px;
+  font-size: 12px;
+  color: white;
+  display: flex;
+  gap: 10px;
+}
+
+/* 3. Banner Area */
+.banner-section {
+  display: flex;
+  gap: 10px;
+  padding: 20px 10%;
+  height: 250px;
+}
+
+.main-banner {
+  flex: 2;
+  background: linear-gradient(to right, var(--shangri-la-pink), var(--shangri-la-mint));
+  border-radius: 4px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-size: 24px;
+}
+
+.side-banners { flex: 1; display: flex; flex-direction: column; gap: 10px; }
+.side-banner { flex: 1; background: #ddd; border-radius: 4px; }
+
+/* 4. Service Icons */
+.services-section {
+  display: flex;
+  justify-content: space-around;
+  background: white;
+  padding: 20px 10%;
+}
+
+.service-item { text-align: center; cursor: pointer; font-size: 13px; }
+.service-icon {
+  width: 45px; height: 45px;
+  background: var(--shangri-la-mint);
+  border-radius: 15px;
+  margin: 0 auto 10px;
+}
+
+/* 5. Categories */
+.category-section {
+  margin: 20px 10%;
+  background: white;
+}
+
+.category-title { padding: 15px; border-bottom: 1px solid #eee; text-transform: uppercase; color: #888; }
+
+.category-grid {
+  display: grid;
+  grid-template-columns: repeat(10, 1fr);
+  border-top: 1px solid #eee;
+}
+
+.category-item {
+  padding: 20px 10px;
+  text-align: center;
+  border-right: 1px solid #eee;
+  border-bottom: 1px solid #eee;
+  font-size: 12px;
+}
+
+/* 6. Mall Commitments */
+.mall-commit {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  background: white;
+  padding: 15px;
+  margin: 0 10%;
+  border-bottom: 2px solid var(--shangri-la-pink);
+}
+
+.commit-item { display: flex; align-items: center; font-size: 14px; gap: 5px; }
