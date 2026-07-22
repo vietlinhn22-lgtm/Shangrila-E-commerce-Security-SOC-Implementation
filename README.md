@@ -53,18 +53,60 @@ Hạ tầng vận hành theo mô hình CNTT Lai (Hybrid IT) kết hợp giữa M
 
 ## 📸 Hình ảnh Hệ thống
 
-### 1. Sơ đồ Mạng Hybrid Cloud & SOC
+### 0. Sơ đồ Mạng Hybrid Cloud & SOC
 ![Architecture Diagram](./images/hybrid-cloud-topology.png)
 
-### 2. Tự động hóa Cô lập Mối đe dọa với Honeypot & Netmiko
+### 1. Kiểm thử Brute-Force vào tài khoản quản trị hệ thống Active Directory
+![Splunk Monitoring](./images/Brute-Force.png)
+
+### 2. Ứng dụng A.I trong quá trình Footprinting và Port Scanning
+![Splunk Monitoring](./images/Footprinting-Port-Scanning.png)
+
+### 3. Tấn công Nghe lén dữ liệu (Man-In-The-Middle / ARP Spoofing)
+![Splunk Monitoring](./images/MITM.png)
+
+### 4. Kiểm thử Broken Access Control và triển khai xác thực API.
+![Splunk Monitoring](./images/RBAC.png)
+
+### 5. Bảo vệ Active Directory trước các kỹ thuật khai thác định danh
+![Splunk Monitoring](./images/Active-Directory.png)
+
+### 6. Khai thác SSRF để lấy thông tin hệ thống trên Azure
+![Splunk Monitoring](./images/SSRF.png)
+
+### 7. Ngăn chặn Reverse Shell và leo thang đặc quyền vào máy trạm.
+![Splunk Monitoring](./images/Reverse-Shell.png)
+
+### 8. Bảo vệ hệ thống trước chiến dịch tấn công lừa đảo qua Email
+![Splunk Monitoring](./images/Email-Phishing.png)
+
+### 9. Giới hạn tốc độ truy cập và thời lượng kết nối đến trang Web 
+![Splunk Monitoring](./images/ddos.png)
+
+### 10. Dùng WAF tự động chặn các cú pháp tấn công nhằm vào địa chỉ Web**
+![Splunk Monitoring](./images/WAF.png)
+
+### 11. Tự động hóa phân tích và Phản ứng sự cố bảo mật với Intelligent SOC
+![Splunk Monitoring](./images/Intelligent-SOC.png)
+
+### 12 Tích hợp Wireguard VPN và Giám sát DNS Sinkhole để Quản lý truy cập
+![Splunk Monitoring](./images/Wireguard-VPN.png)
+
+### 13 Tích hợp Intelligent SOC trên Azure và Phân tích sự cố qua OpenAI
+![Splunk Monitoring](./images/Azure.png)
+
+### 14. Tạo bẫy Honeypot tích hợp Netmiko tự động khoá Port tấn công
 ![SOAR Workflow](./images/honeypot-soar.png)
 
-### 3. Bảng điều khiển Giám sát Splunk SIEM
-![Splunk Monitoring](./images/splunk-dashboard.png)
+### 15 Ứng dụng A.I Agent trong tự động hóa phòng thủ hệ thống
+![SOAR Workflow](./images/AI-Soar.png)
+
+### 16 Phục hồi sau sự cố & Tích hợp cơ chế Zero Trust cùng Llama 3 A.I
+![SOAR Workflow](./images/Llama-3.png)
 
 ## 👨‍💻 Nhóm 8 (Tác giả)
 *   **Quách Thành Tân** (JK-ENR-HA-11618)
 *   **Nguyễn Việt Linh** (JK-ENR-HA-11617)
 *   **Trần Quốc Huy** (JK-ENR-HA-11617)
 
-*Được phát triển dưới dạng Đồ án Tài liệu Thiết kế Học kỳ IV tại Viện Đào tạo Quốc tế FPT Jetking.*[cite: 6]
+*Được phát triển dưới dạng Đồ án Tài liệu Thiết kế Học kỳ IV tại Viện Đào tạo Quốc tế FPT Jetking.
