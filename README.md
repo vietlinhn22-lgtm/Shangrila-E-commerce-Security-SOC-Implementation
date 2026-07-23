@@ -72,10 +72,10 @@ https://drive.google.com/file/d/1wcQwBvmB3cMid3GfIMhaAeM6kN9gVSl3/view?usp=shari
 https://drive.google.com/file/d/1Mm7tIp9BbRuWjCdHsw55tKgyUZ2Pt916/view?usp=sharing
 
 ## 📸 REPORT Báo cáo SOC
-### 1. [📄 Kịch bản Giám sát & Phân tích tập trung](<./WORDS/3.11 Kịch bản Giám sát & Phân tích tập trung.docx>)
-### 2. [📄 Kịch bản Quản lý truy cập](<./WORDS/3.12 Kịch bản Quản lý truy cập.docx>)
-### 3. [📄 Kịch bản Tích hợp OpenAI phân tích trên Azure ](<./WORDS/3.13 Kịch bản Tích hợp OpenAI phân tích trên Azure.docx>)
-### 4. [📄 Kịch bản A.I phản ứng tự động](<./WORDS/3.15 Kịch bản A.I phản ứng tự động.docx>)
+### 1. [📄 Tải Kịch bản: Giám sát & Phân tích tập trung](<./WORDS/3.11 Kịch bản Giám sát & Phân tích tập trung.docx>)
+### 2. [📄 Tải Kịch bản: Quản lý truy cập](<./WORDS/3.12 Kịch bản Quản lý truy cập.docx>)
+### 3. [📄 Tải Kịch bản: Tích hợp OpenAI phân tích trên Azure ](<./WORDS/3.13 Kịch bản Tích hợp OpenAI phân tích trên Azure.docx>)
+### 4. [📄 Tải Kịch bản: A.I phản ứng tự động](<./WORDS/3.15 Kịch bản A.I phản ứng tự động.docx>)
  
 
 
