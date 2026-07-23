@@ -56,6 +56,5 @@ Hạ tầng vận hành theo mô hình CNTT Lai (Hybrid IT) kết hợp giữa M
 *   **Nguyễn Việt Linh** (JK-ENR-HA-11617)
 *   **Trần Quốc Huy** (JK-ENR-HA-11617)
 
-*Được phát triển dưới dạng Đồ án Tài liệu Thiết kế Học kỳ IV tại Viện Đào tạo Quốc tế FPT Jetking.
-[TÀI LIỆU THIẾT KẾ_J1.2409.E0_NHÓM 8 (updated).pdf](https://github.com/user-attachments/files/30291662/TAI.LI.U.THI.T.K._J1.2409.E0_NHOM.8.updated.pdf)
+[TAI LIEU THIET KE_J1.2409.E0_Group 8.pdf](https://github.com/user-attachments/files/30291788/TAI.LIEU.THIET.KE_J1.2409.E0_Group.8.pdf)
 
