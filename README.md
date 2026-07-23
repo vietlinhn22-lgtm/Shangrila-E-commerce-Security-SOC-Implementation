@@ -52,9 +52,35 @@ Hạ tầng vận hành theo mô hình CNTT Lai (Hybrid IT) kết hợp giữa M
 *   **AI & Tự động hóa:** ShellGPT, Llama 3, Telegram API, Python.
 
 ## 👨‍💻 Nhóm 8 (Tác giả)
-*   **Quách Thành Tân** (JK-ENR-HA-11618)
 *   **Nguyễn Việt Linh** (JK-ENR-HA-11617)
-*   **Trần Quốc Huy** (JK-ENR-HA-11617)
 
-[TAI LIEU THIET KE_J1.2409.E0_Group 8.pdf](https://github.com/user-attachments/files/30291788/TAI.LIEU.THIET.KE_J1.2409.E0_Group.8.pdf)
+## 📸 DEMO Giả lập tấn công 
+
+### 1. Testing Broken Access Control and Implementing API Authentication.
+https://drive.google.com/file/d/1gvbLTTZqTFmVG33MQYCWKkvlWETrK9Dj/view?usp=sharing
+
+### 2. Active Directory Kerberos Attacks & Exploit Authentication Flaws
+https://drive.google.com/file/d/1Lnjp9lgvRtknqcv6ddMKJdIuRJo8CWq6/view?usp=sharing
+
+### 3. Web Exploitation to Full System Control 
+https://drive.google.com/file/d/1jgaCLtsUZgqEnmYt-h9DNOd2BmoLAUrn/view?usp=sharing
+
+### 4. Email Phishing Stimulation & Credential Harvesting 
+https://drive.google.com/file/d/1wcQwBvmB3cMid3GfIMhaAeM6kN9gVSl3/view?usp=sharing
+
+### 5. Database Exhaustion Attack & Stress Test Registration
+https://drive.google.com/file/d/1Mm7tIp9BbRuWjCdHsw55tKgyUZ2Pt916/view?usp=sharing
+
+## 📸 REPORT Báo cáo SOC
+### 1. KỊCH BẢN GIÁM SÁT &  PHÂN TÍCH TẬP TRUNG
+[📄 Tải xuống: Kịch bản Giám sát & Phân tích tập trung (Word)](<./WORDS/3.11 Kịch bản Giám sát & Phân tích tập trung.docx>)
+### 2. KỊCH BẢN QUẢN LÝ TẬP TRUNG
+[📄 Tải xuống: Kịch bản Giám sát & Phân tích tập trung (Word)](<./WORDS/3.12 Kịch bản Quản lý truy cập.docx>)
+### 3. KỊCH BẢN TÍCH HỢP OPENAI PHÂN TÍCH TRÊN AZURE
+[📄 Tải xuống: Kịch bản Giám sát & Phân tích tập trung (Word)](<./WORDS/3.13 Kịch bản Tích hợp OpenAI phân tích trên Azure.docx>)
+### 4. KỊCH BẢN A.I PHẢN ỨNG TỰ ĐỘNG.
+[📄 Tải xuống: Kịch bản Giám sát & Phân tích tập trung (Word)](<./WORDS/3.15 Kịch bản A.I phản ứng tự động.docx>)
+ 
+
+
 
