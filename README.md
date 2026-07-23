@@ -75,11 +75,11 @@ https://drive.google.com/file/d/1Mm7tIp9BbRuWjCdHsw55tKgyUZ2Pt916/view?usp=shari
 ### 1. KỊCH BẢN GIÁM SÁT &  PHÂN TÍCH TẬP TRUNG
 [📄 Tải xuống: Kịch bản Giám sát & Phân tích tập trung (Word)](<./WORDS/3.11 Kịch bản Giám sát & Phân tích tập trung.docx>)
 ### 2. KỊCH BẢN QUẢN LÝ TẬP TRUNG
-[📄 Tải xuống: Kịch bản Giám sát & Phân tích tập trung (Word)](<./WORDS/3.12 Kịch bản Quản lý truy cập.docx>)
+[📄 Tải xuống: Kịch bản Quản lý truy cập (Word)](<./WORDS/3.12 Kịch bản Quản lý truy cập.docx>)
 ### 3. KỊCH BẢN TÍCH HỢP OPENAI PHÂN TÍCH TRÊN AZURE
-[📄 Tải xuống: Kịch bản Giám sát & Phân tích tập trung (Word)](<./WORDS/3.13 Kịch bản Tích hợp OpenAI phân tích trên Azure.docx>)
+[📄 Tải xuống: Kịch bản Tích hợp OpenAI phân tích trên Azure (Word)](<./WORDS/3.13 Kịch bản Tích hợp OpenAI phân tích trên Azure.docx>)
 ### 4. KỊCH BẢN A.I PHẢN ỨNG TỰ ĐỘNG.
-[📄 Tải xuống: Kịch bản Giám sát & Phân tích tập trung (Word)](<./WORDS/3.15 Kịch bản A.I phản ứng tự động.docx>)
+[📄 Tải xuống: Kịch bản A.I phản ứng tự động (Word)](<./WORDS/3.15 Kịch bản A.I phản ứng tự động.docx>)
  
 
 
