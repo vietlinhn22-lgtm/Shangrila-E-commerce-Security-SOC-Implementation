@@ -62,11 +62,10 @@ Hạ tầng vận hành theo mô hình CNTT Lai (Hybrid IT) kết hợp giữa M
 
 ### 3. * [▶️ Xem Video: Web Exploitation to Full System Control](https://drive.google.com/file/d/1jgaCLtsUZgqEnmYt-h9DNOd2BmoLAUrn/view?usp=drive_link)
 
-### 4. Email Phishing Stimulation & Credential Harvesting 
-* [▶️ Xem Video: Web Exploitation to Full System Control](https://drive.google.com/file/d/1wcQwBvmB3cMid3GfIMhaAeM6kN9gVSl3/view?usp=drive_link)
+### 4. 
+* [▶️ Xem Video: Email Phishing Stimulation & Credential Harvesting](https://drive.google.com/file/d/1wcQwBvmB3cMid3GfIMhaAeM6kN9gVSl3/view?usp=drive_link)
 
-### 5. Database Exhaustion Attack & Stress Test Registration
-* [▶️ Xem Video: Web Exploitation to Full System Control](https://drive.google.com/file/d/1Mm7tIp9BbRuWjCdHsw55tKgyUZ2Pt916/view?usp=drive_link)
+### 5. * [▶️ Xem Video:Database Exhaustion Attack & Stress Test Registration](https://drive.google.com/file/d/1Mm7tIp9BbRuWjCdHsw55tKgyUZ2Pt916/view?usp=drive_link)
  
 ## 📸 REPORT Báo cáo SOC
 ### 1. [📄 Kịch bản: Giám sát & Phân tích tập trung](<./PDFs/3.11 Kịch bản Giám sát & Phân tích tập trung.pdf>)
