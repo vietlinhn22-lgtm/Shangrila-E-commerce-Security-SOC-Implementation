@@ -56,11 +56,9 @@ Hạ tầng vận hành theo mô hình CNTT Lai (Hybrid IT) kết hợp giữa M
 
 ## 📸 DEMO Giả lập tấn công 
 
-### 1. Testing Broken Access Control and Implementing API Authentication.
-https://drive.google.com/file/d/1gvbLTTZqTFmVG33MQYCWKkvlWETrK9Dj/view?usp=sharing
+### 1. * [▶️ Xem Video: Testing Broken Access Control and Implementing API Authentication](https://drive.google.com/file/d/1JOkqXptZtbthLU3S70koUaqPnD5HnN5P/view?usp=drive_link)
 
-### 2. Active Directory Kerberos Attacks & Exploit Authentication Flaws
-https://drive.google.com/file/d/1Lnjp9lgvRtknqcv6ddMKJdIuRJo8CWq6/view?usp=sharing
+### 2. * [▶️ Xem Video: Active Directory Kerberos Attacks & Exploit Authentication Flaws](https://drive.google.com/file/d/1Lnjp9lgvRtknqcv6ddMKJdIuRJo8CWq6/view?usp=sharing)
 
 ### 3. Web Exploitation to Full System Control 
 https://drive.google.com/file/d/1jgaCLtsUZgqEnmYt-h9DNOd2BmoLAUrn/view?usp=sharing
@@ -71,6 +69,23 @@ https://drive.google.com/file/d/1wcQwBvmB3cMid3GfIMhaAeM6kN9gVSl3/view?usp=shari
 ### 5. Database Exhaustion Attack & Stress Test Registration
 https://drive.google.com/file/d/1Mm7tIp9BbRuWjCdHsw55tKgyUZ2Pt916/view?usp=sharing
 
+
+
+
+### 3. Mạng & Bảo mật (Networking & Security):
+* [▶️ Xem Video: Cấu hình VPN Point-to-Site](https://drive.google.com/file/d/1aB-vDksp57wfDit_a1qYRrGWzgYikjk1/view?usp=drive_link)
+* [▶️ Xem Video: Cấu hình Azure Firewall](https://drive.google.com/file/d/1gafP1bmujVLnQmoFFSveRi98keMX0U4C/view?usp=drive_link)
+
+### 4. SOC & Giám sát Hệ thống (Monitoring):
+* [▶️ Xem Video: Azure Monitor](https://drive.google.com/file/d/1qBK0FUfqfiZ6iIMcPINQ3fk8tzfGc04y/view?usp=drive_link)
+* [▶️ Xem Video: Azure Log Analytics](https://drive.google.com/file/d/1YoKLJepEZv-j4wdso5ye0tGHJzuows3d/view?usp=drive_link)
+
+### 5. Tích hợp Dịch vụ & Automation:
+* [▶️ Xem Video: Cấu hình Custom Domain](https://drive.google.com/file/d/1okyrOvy8maqOUJrgn74J5v3a2nD-pXq9/view?usp=drive_link)
+* [▶️ Xem Video: Cấu hình Microsoft 365 & Teams](https://drive.google.com/file/d/14J3PIaZchrglB7zj-0kMmu2mzlwEktTx/view?usp=drive_link)
+* [▶️ Xem Video: Azure Service Bus](https://drive.google.com/file/d/14J3PIaZchrglB7zj-0kMmu2mzlwEktTx/view?usp=drive_link)
+* [▶️ Xem Video: Azure Function App](https://drive.google.com/file/d/1O-MOwqccY-6TSM1LjW0e0Xr8bBhLzRCL/view?usp=drive_link)
+* 
 ## 📸 REPORT Báo cáo SOC
 ### 1. [📄 Kịch bản: Giám sát & Phân tích tập trung](<./PDFs/3.11 Kịch bản Giám sát & Phân tích tập trung.pdf>)
 ### 2. [📄 Kịch bản: Quản lý truy cập](<./PDFs/3.12 Kịch bản Quản lý truy cập.pdf>)
@@ -78,7 +93,7 @@ https://drive.google.com/file/d/1Mm7tIp9BbRuWjCdHsw55tKgyUZ2Pt916/view?usp=shari
 ### 4. [📄 Kịch bản: A.I phản ứng tự động](<./PDFs/3.15 Kịch bản A.I phản ứng tự động.pdf>)
 
 ## 📸 TÀI LIỆU THAM KHẢO
-[📖 Đọc trực tiếp: TÀI LIỆU THIẾT KẾ ĐỒ ÁN (TLTK_Group4.pdf)](./TAI LIEU THIET KE_J1.2409.E0_Group 8.pdf)
+[📖 Đọc trực tiếp: TÀI LIỆU THIẾT KẾ ĐỒ ÁN](<./TAI LIEU THIET KE_J1.2409.E0_Group 8.pdf>)
 
  
 
