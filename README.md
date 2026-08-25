@@ -64,7 +64,7 @@ Hạ tầng vận hành theo mô hình CNTT Lai (Hybrid IT) kết hợp giữa M
 
 ### 4. * [▶️ Xem Video: Email Phishing Stimulation & Credential Harvesting](https://drive.google.com/file/d/1wcQwBvmB3cMid3GfIMhaAeM6kN9gVSl3/view?usp=drive_link)
 
-### 5. * [▶️ Xem Video:Database Exhaustion Attack & Stress Test Registration](https://drive.google.com/file/d/1Mm7tIp9BbRuWjCdHsw55tKgyUZ2Pt916/view?usp=drive_link)
+### 5. * [▶️ Xem Video: Database Exhaustion Attack & Stress Test Registration](https://drive.google.com/file/d/1Mm7tIp9BbRuWjCdHsw55tKgyUZ2Pt916/view?usp=drive_link)
  
 ## 📸 REPORT Báo cáo SOC
 ### 1. [📄 Kịch bản: Giám sát & Phân tích tập trung](<./PDFs/3.11 Kịch bản Giám sát & Phân tích tập trung.pdf>)
@@ -73,7 +73,7 @@ Hạ tầng vận hành theo mô hình CNTT Lai (Hybrid IT) kết hợp giữa M
 ### 4. [📄 Kịch bản: A.I phản ứng tự động](<./PDFs/3.15 Kịch bản A.I phản ứng tự động.pdf>)
 
 ## 📸 TÀI LIỆU THAM KHẢO
-[📖 Đọc trực tiếp: TÀI LIỆU THIẾT KẾ ĐỒ ÁN](<./TAI LIEU THIET KE_J1.2409.E0_Group 8.pdf>)
+[📖 Đọc trực tiếp: TÀI LIỆU THIẾT KẾ ĐỒ ÁN NHÓM 8](<./TAI LIEU THIET KE_J1.2409.E0_Group 8.pdf>)
 
  
 
