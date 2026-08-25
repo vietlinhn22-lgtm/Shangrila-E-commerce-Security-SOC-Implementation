@@ -78,7 +78,7 @@ https://drive.google.com/file/d/1Mm7tIp9BbRuWjCdHsw55tKgyUZ2Pt916/view?usp=shari
 ### 4. [📄 Kịch bản: A.I phản ứng tự động](<./PDFs/3.15 Kịch bản A.I phản ứng tự động.pdf>)
 
 ## 📸 TÀI LIỆU THAM KHẢO
-[TAI LIEU THIET KE_J1.2409.E0_Group 8.pdf](https://github.com/user-attachments/files/31402460/TAI.LIEU.THIET.KE_J1.2409.E0_Group.8.pdf)
+[📖 Đọc trực tiếp: TÀI LIỆU THIẾT KẾ ĐỒ ÁN (TLTK_Group4.pdf)](./TAI LIEU THIET KE_J1.2409.E0_Group 8.pdf)
 
  
 
