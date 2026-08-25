@@ -76,6 +76,10 @@ https://drive.google.com/file/d/1Mm7tIp9BbRuWjCdHsw55tKgyUZ2Pt916/view?usp=shari
 ### 2. [📄 Kịch bản: Quản lý truy cập](<./PDFs/3.12 Kịch bản Quản lý truy cập.pdf>)
 ### 3. [📄 Kịch bản: Tích hợp OpenAI phân tích trên Azure ](<./PDFs/3.13 Kịch bản Tích hợp OpenAI phân tích trên Azure.pdf>)
 ### 4. [📄 Kịch bản: A.I phản ứng tự động](<./PDFs/3.15 Kịch bản A.I phản ứng tự động.pdf>)
+
+## 📸 TÀI LIỆU THAM KHẢO
+[TAI LIEU THIET KE_J1.2409.E0_Group 8.pdf](https://github.com/user-attachments/files/31402460/TAI.LIEU.THIET.KE_J1.2409.E0_Group.8.pdf)
+
  
 
 
